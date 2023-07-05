@@ -1,0 +1,30 @@
+
+.home-teatcher-block{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.home-teatcher-title{
+    text-align: center;
+}
+.home-teatcher-subtitle{
+    text-align: center;
+    color : gray;
+}
+.home-teatcher-block-left h5{
+    font-size: 19px;
+    text-align: center;
+    margin: 15px;
+}
+.home-teatcher-block-left{
+ margin-right: 20px;
+}
+.home-teatcher-block-left p {
+    text-align: justify;
+}
+
+.home-slider{
+    width: 100%;
+    max-width: 900px;
+    margin: 30px auto;
+}

@@ -1,0 +1,23 @@
+.home-about{
+    margin-top: 60px;
+}
+.home-about-title{
+    text-align: center;
+    margin: 12px 0;
+}
+.home-about-subtitle{
+    text-align: center;
+    color : gray;
+}
+.home-about-description{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.home-about-description-left{
+    max-width: 600px;
+}
+.home-about-description-left-accardion-block{
+    width: 600px;
+}

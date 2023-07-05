@@ -1,0 +1,12 @@
+.navigation a {
+    margin: 0 14px;
+    text-decoration: none;
+    color : var(--colors-text);
+    cursor: pointer;
+    transition: .4s all linear;
+    font-weight: 700;
+}
+
+.navigation a:hover{
+    color : #30c801;
+}

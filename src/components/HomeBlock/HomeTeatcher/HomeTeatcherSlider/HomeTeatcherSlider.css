@@ -1,0 +1,21 @@
+.slide{
+   
+}
+.slider-block{
+   width: 220px;
+   padding: 22px;
+   margin: 20px 0;
+}
+
+.teatcher-img{
+    width: 90px;
+    height: 90px;
+    border-radius: 45px;
+    display: block;
+    margin: 0 auto;
+}
+
+.teatcher-description h3, p{
+    text-align: center;
+
+}

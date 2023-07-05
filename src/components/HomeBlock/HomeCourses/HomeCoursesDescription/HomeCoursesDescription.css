@@ -1,0 +1,40 @@
+.home-courses-main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1000px;
+    margin: 20px auto;
+    flex-wrap: wrap;
+    box-shadow: 1.5px 1.5px 15px rgb(0 0 0 / 5%);
+    border: 2px solid #30c801;;
+    border-radius: 16px;
+}
+
+.home-courses-card {
+    max-width: 1000px;
+    width: 100%;
+    margin: 0 auto;
+    margin: 15px;
+    transition: .3s all linear;
+    display: flex;
+    justify-content: space-between;
+}
+
+.home-courses-card svg {
+    font-size: 24px;
+    float: left;
+    cursor: pointer;
+    color: #30c801;
+}
+
+.home-courses-card-title {
+    text-align: center;
+ font-size: 18px;
+}
+
+.home-courses-description{
+    text-align: justify;
+    font-style: italic;
+    font-weight: 400;
+    padding: 0 15px 15px 15px;
+}

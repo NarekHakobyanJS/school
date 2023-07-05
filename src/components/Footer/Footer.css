@@ -1,0 +1,16 @@
+.footer{
+    width: 100%;
+    max-width: 1260px;
+    margin : 0 auto;
+    position: sticky;
+    top : 0;
+    left: 0;
+    right: 0;
+    background: var(--colors-bg);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    box-shadow: var(--shadow);
+    z-index: 99;
+}

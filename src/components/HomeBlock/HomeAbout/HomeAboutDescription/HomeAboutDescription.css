@@ -1,0 +1,28 @@
+.home-about-description-ac-block{
+    width: 600px;
+    border: 2px solid #30c801;;
+    margin: 20px 0;
+    border-radius: 16px;
+}
+
+.home-about-description-ac{
+    padding: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.home-about-description-ac svg {
+    font-size: 24px;
+    float: left;
+    cursor: pointer;
+    color: #30c801;
+}
+
+.home-about-description-text {
+    text-align: justify;
+    font-style: italic;
+    font-weight: 400;
+    padding: 0 15px 15px 15px;
+
+}

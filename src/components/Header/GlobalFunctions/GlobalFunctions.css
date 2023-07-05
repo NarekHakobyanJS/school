@@ -1,0 +1,15 @@
+.global-functions{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.global-functions svg {
+    margin-left: 8px;
+    font-size: 22px;
+    transition: .3s all linear;
+}
+
+.global-functions svg:hover{
+    color : #30c801;
+}

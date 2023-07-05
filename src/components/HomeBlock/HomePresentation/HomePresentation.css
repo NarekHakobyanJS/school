@@ -1,0 +1,44 @@
+.home-presentation{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.home-presentation-left {
+    color : #30c801;
+}
+
+.home-presentation-left h1 {
+    font-size: 60px;
+}
+.home-presentation-left-p{
+    padding: 0 10px;
+}
+.home-presentation-left-btns{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}
+.go-to-lesson{
+    border: 1px solid #30c801;;
+    background: transparent;
+    color : #30c801;;
+    padding: 8px 12px;
+    font-size: 15px;
+    border-radius: 16px;
+    transition: .3s all linear;
+    margin-right: 14px;
+}
+
+.go-to-lesson:hover{
+    background: #30c801;
+    color : black;
+    cursor: pointer;
+}
+.home-presentation-left-social a{
+    color: #30c801;;
+}
+.home-presentation-left-social svg{
+    font-size: 22px;
+    margin-right: 14px;
+    cursor: pointer;
+}

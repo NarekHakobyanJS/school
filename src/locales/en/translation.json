@@ -1,0 +1,54 @@
+{
+    "Navigation" : {
+     "Courses" : "Courses",
+     "AboutUs" : "About Us",
+     "Teachers" : "Teachers",
+     "Advantages" : "Advantages",
+     "Contact" : "Contact"
+    },
+    "Presentation" : {
+        "Slogan" : "FUTURE BEGINS NOW!",
+        "PresentationBTN" : "Start learning"
+    },
+    "Courses" : {
+        "title" : "Programming courses...",
+        "subtitle" : "Programming courses for beginners",
+        "CoursesData" : {
+            "Gaming" : {
+               "title" : "Game programming",
+               "body" : "The game programming course is for 3 months, with 3 meetings a week. It is intended for children aged 7-15 to study the basics of programming and get key knowledge. The cost of each month is 20,000֏."
+            },
+            "Web" : {
+               "title" : "WEB programming",
+               "body" : "The duration is only 6-7 months. HTML, CSS, JS and Bootstrap are taught during the course. After finishing, you will have your Portfolio website. The duration of each lesson is 1.5 hours. The price of group lessons is 30,000֏. And the price of individual lessons is 45,000֏."
+            },
+            "React" : {
+               "title" : "React JS",
+               "body" : "The duration of the course is 2 months, with 3 meetings a week. To join this course, you need to master HTML, CSS, JS. The lessons are remote, so the participant can join from anywhere. The cost of each month is 45,000֏."
+            },
+            "English" : {
+               "title" : "English:",
+               "body" : "you can learn English directly from a native speaker. In a short time you will be able to compose an oral literate speech and communicate. Lessons are 3 times a week, each lasting 1.5 hours. The cost of the course is 15,000 AMD, for students of our center, the fee is discounted to 12,000 AMD instead of 15,000."
+            },
+            "Design" : {
+               "title" : "Graphic design",
+               "body" : "The duration of the course is 2 months. At the beginner level, you will master Photoshop and Illustrator programs, you will be able to retouch, create a logo, use mockups, you will learn what corporate style is, and you will have a logobook of your own design. The cost of each month is 35,000֏."
+            },
+            "Seo" : {
+               "title" : "Business consulting, business marketing, SEO",
+               "body" : "The course is designed for start-ups and existing businesses. These courses are in demand everywhere, due to the fact that nowadays it is impossible to have any successful business without competent marketing. The number of meetings is 8 classes. The monthly cost of the course is 50,000֏."
+            },
+            "MsOffice" : {
+               "title" : "MS OFFICE courses",
+               "body" : "There is no age limit for participation in the course. During the course, we will study the programs of the MS OFFICE package, namely MS WORD, MS EXCELL, Google Docs, Google Sheets. The monthly group price of the course is 30,000֏."
+            }
+   
+         }
+    },
+    "Center" : {
+     "title" : "Our center...",
+     "subtitle" : "Your learning process will become even more pleasant in our comfortably furnished classrooms.",
+     "bodyTitle" : "About us",
+     "body" : "IT Artashat Programming Center (IT Artashat TC) was established in June 2021. With professional educational programs, the company provides game programming, web programming, conversational English, office software training and accepts animation/animation orders for web sites and advertisements. The programming center also implements training and qualification improvement programs. Unlike other IT centers, all logical individuals from the age of seven can learn the mentioned digital specialties here."
+    }
+ }
